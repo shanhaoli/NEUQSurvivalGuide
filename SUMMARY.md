@@ -15,6 +15,5 @@
   * [鹏远公寓](part3/PY.md)
 * [行](part4/README.md)
   * [市区](part4/withincity.md)
-  * [长途](part4/longdistance.md)
+  * [游玩](part4/travel.md)
   * [回家](part4/gohome.md)
-

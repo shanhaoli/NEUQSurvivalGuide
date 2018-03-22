@@ -4,7 +4,6 @@
 
 本书发布于GitBook，为获取最新版本，可浏览[本书网址](https://suith27.gitbooks.io/neuqsurvivalguide/content/)。
 
-一个人的力量是有限的，希望能接住其他人的力量完善此书。
+一个人的力量是有限的，希望能借助其他人的力量完善此书。如果可以，请联系suith@qq.com。
 
 欢迎下载、打印和传播。
-
