@@ -15,7 +15,6 @@
     * [校内公寓](part3/dormitory.md)
     * [鹏远公寓](part3/PY.md)
 * [行](part4/README.md)
-    * [游玩](part4/travel.md)
     * [回家](part4/gohome.md)
 * [浪](part5/README.md)
     * [娱乐](part5/entertainment.md)
